@@ -221,7 +221,7 @@ const About = () => (
           My journey started with a curiosity for how things work, which quickly evolved into a passion for building software.
         </p>
         <p>
-          I spend my free time exploring Machine Learning, Cryptography, and scalable architecture.
+          I spend my free time exploring Machine Learning, Cloud Computing, and scalable architecture.
         </p>
       </div>
 
